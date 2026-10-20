@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <strong>🌟 Access the Live Demo here: <a href="https://quantum-omega-soc.onrender.com">https://quantum-omega-soc.onrender.com</a> 🌟</strong>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-00D2FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-Secured-10B981?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/100%25_Client_Side-Forensics-F59E0B?style=for-the-badge&logo=shield&logoColor=black" alt="Security" />
